@@ -1,0 +1,15 @@
+# code only: no data, checkpoints, predictions, figures or archives
+*.zip
+*.pt
+*.pth
+*.csv
+*.jsonl
+*.png
+*.jpg
+*.jpeg
+*.tex
+*.npy
+*.npz
+__pycache__/
+.ipynb_checkpoints/
+fast-kan/

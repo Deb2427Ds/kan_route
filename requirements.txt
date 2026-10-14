@@ -1,0 +1,16 @@
+# Kaggle GPU (T4) environment used for the notebooks; versions are not pinned.
+torch
+torchvision
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+sentence-transformers
+open_clip_torch
+transformers
+accelerate
+bitsandbytes
+tabulate
+pillow
